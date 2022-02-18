@@ -2,7 +2,7 @@
 # VARIABLE
 
 nama = "Danish" # string
-umur = 14 # integer
+umur = 15 # integer
 lakiLaki = True # boolean (True/False)
 tinggi = 170 # float
 
